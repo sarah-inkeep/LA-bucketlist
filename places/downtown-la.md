@@ -3,11 +3,11 @@ title: Downtown LA
 description: Urban core — Grand Central Market, Broad museum, Walt Disney Concert Hall, and skyline views.
 tags: [place, la, want-to-go, downtown, urban]
 ---
-
 # Downtown LA
 
-> [!TIP]
-> Quick take: LA's renaissance neighborhood — food halls, architecture, and culture within walking distance.
+> [!TIP] Quick take
+>
+> LA's renaissance neighborhood — food halls, architecture, and culture within walking distance.
 
 ## The vibe
 
@@ -35,3 +35,4 @@ Weekday lunch for Grand Central Market energy. Evening for concerts and bars.
 
 - [Grand Central Market](../food-and-drink/grand-central-market.md)
 - [Places overview](./overview.md)
+

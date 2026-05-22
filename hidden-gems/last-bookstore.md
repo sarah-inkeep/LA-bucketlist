@@ -3,11 +3,11 @@ title: The Last Bookstore
 description: Downtown LA's iconic used bookstore — labyrinth of books, tunnels, and art installations.
 tags: [hidden-gem, la, want-to-go, bookstore, downtown]
 ---
-
 # The Last Bookstore
 
-> [!TIP]
-> Quick take: One of the largest used bookstores in the world, with surreal book tunnels perfect for an hour of wandering.
+> [!TIP] Quick take
+>
+> One of the largest used bookstores in the world, with surreal book tunnels perfect for an hour of wandering.
 
 ## The vibe
 
@@ -36,3 +36,4 @@ Weekday afternoons for fewer crowds. Check for author events (TODO: needs source
 - [Grand Central Market](../food-and-drink/grand-central-market.md)
 - [Arts District](../neighborhoods/arts-district.md)
 - [Hidden gems overview](./overview.md)
+
