@@ -9,6 +9,9 @@ tags: [day-trip, la, want-to-go, national-park, desert]
 >
 > Otherworldly desert landscape with iconic trees and boulders — perfect for a full-day escape from LA.
 
+![Joshua trees silhouetted against a colorful sunset sky in the national park](../../assets/images/joshua-tree/joshua-trees.jpg)
+*Source: [Wikimedia Commons — Joshua Tree National Park Sunset](https://commons.wikimedia.org/wiki/File:Joshua_Tree_National_Park_Sunset.jpg) — Public domain*
+
 ## The vibe
 
 Wide-open desert, dramatic rock piles, and golden-hour light. Busy on spring weekends and holidays; quieter at dawn. More rugged and self-sufficient than a city park — you're in the high desert.
