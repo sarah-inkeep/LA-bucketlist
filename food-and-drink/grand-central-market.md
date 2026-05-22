@@ -27,7 +27,7 @@ Open daily 8am–9pm [source](../external-sources/grand-central-market.md). Lunc
 
 ## Tips
 
-- Try Tacos Tumbras a Tomas for carnitas [source](./external-sources/grand-central-market.md)
+- Try Tacos Tumbras a Tomas for carnitas [source](../external-sources/grand-central-market.md)
 - Vendor hours vary — check before a late visit
 - Combine with Bradbury Building or The Last Bookstore
 

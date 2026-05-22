@@ -23,7 +23,7 @@ Big, sprawling campus mixing outdoor sculpture, special exhibitions, and classic
 
 ## When to go
 
-Friday Jazz at LACMA (Apr–Oct) and summer Latin Sounds on Saturdays [source](./external-sources/lacma-visit.md). Advance tickets recommended.
+Friday Jazz at LACMA (Apr–Oct) and summer Latin Sounds on Saturdays [source](../external-sources/lacma-visit.md). Advance tickets recommended.
 
 ## Tips
 

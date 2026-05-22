@@ -23,7 +23,7 @@ Calm, spacious, and photogenic. European art plus modern design, cactus gardens,
 
 ## When to go
 
-Saturday evenings for extended hours (until 9pm) [source](./external-sources/getty-center-visit.md). Reserve timed entry in advance.
+Saturday evenings for extended hours (until 9pm) [source](../external-sources/getty-center-visit.md). Reserve timed entry in advance.
 
 ## Tips
 

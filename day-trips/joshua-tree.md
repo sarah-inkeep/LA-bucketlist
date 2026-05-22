@@ -23,11 +23,11 @@ Wide-open desert, dramatic rock piles, and golden-hour light. Busy on spring wee
 
 ## When to go
 
-Fall through spring for hiking; avoid midday hikes in summer due to extreme heat [source](./external-sources/joshua-tree-nps-basic-info.md). Spring wildflower season is popular — expect crowds.
+Fall through spring for hiking; avoid midday hikes in summer due to extreme heat [source](../external-sources/joshua-tree-nps-basic-info.md). Spring wildflower season is popular — expect crowds.
 
 ## Tips
 
-- Bring all food, water, and fuel — nothing available inside the park [source](./external-sources/joshua-tree-nps-basic-info.md)
+- Bring all food, water, and fuel — nothing available inside the park [source](../external-sources/joshua-tree-nps-basic-info.md)
 - Download the NPS app for offline maps before you go
 - Keys View and Hidden Valley are great first stops
 
