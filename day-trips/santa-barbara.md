@@ -6,8 +6,9 @@ tags: [day-trip, la, want-to-go, beach, coastal]
 
 # Santa Barbara
 
-> [!TIP]
-> Quick take: The "American Riviera" — a relaxed coastal town perfect for brunch, beach time, and window shopping.
+> [!TIP] Quick take
+>
+> The "American Riviera" — a relaxed coastal town perfect for brunch, beach time, and window shopping.
 
 ## The vibe
 

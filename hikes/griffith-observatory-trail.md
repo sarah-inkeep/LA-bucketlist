@@ -6,8 +6,9 @@ tags: [hike, trail, la, want-to-go, griffith-park, views]
 
 # Griffith Observatory Trail
 
-> [!TIP]
-> Quick take: Walk up to the observatory through Griffith Park for the full LA panorama — free museum at the top.
+> [!TIP] Quick take
+>
+> Walk up to the observatory through Griffith Park for the full LA panorama — free museum at the top.
 
 ## The vibe
 

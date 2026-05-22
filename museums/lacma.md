@@ -6,8 +6,9 @@ tags: [museum, la, want-to-go, art]
 
 # LACMA
 
-> [!TIP]
-> Quick take: Iconic Urban Light installation out front, diverse collections, and easy Metro access on the Miracle Mile.
+> [!TIP] Quick take
+>
+> Iconic Urban Light installation out front, diverse collections, and easy Metro access on the Miracle Mile.
 
 ## The vibe
 

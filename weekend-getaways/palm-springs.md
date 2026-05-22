@@ -6,8 +6,9 @@ tags: [weekend, getaway, la, want-to-go, desert]
 
 # Palm Springs
 
-> [!TIP]
-> Quick take: Pool-and-cocktail desert weekend with iconic midcentury style and easy access to Joshua Tree day trips.
+> [!TIP] Quick take
+>
+> Pool-and-cocktail desert weekend with iconic midcentury style and easy access to Joshua Tree day trips.
 
 ## The vibe
 

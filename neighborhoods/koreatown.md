@@ -6,8 +6,9 @@ tags: [neighborhood, la, want-to-go, korean, nightlife]
 
 # Koreatown
 
-> [!TIP]
-> Quick take: LA's most energetic food neighborhood — BBQ, soondubu, noraebang, and jjimjilbang spas until late.
+> [!TIP] Quick take
+>
+> LA's most energetic food neighborhood — BBQ, soondubu, noraebang, and jjimjilbang spas until late.
 
 ## The vibe
 

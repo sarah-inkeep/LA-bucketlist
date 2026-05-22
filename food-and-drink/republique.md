@@ -6,8 +6,9 @@ tags: [food, restaurant, la, want-to-go, brunch, french]
 
 # Republique
 
-> [!TIP]
-> Quick take: Stunning dining room, legendary brunch pastries, and a bakery case you'll want to raid.
+> [!TIP] Quick take
+>
+> Stunning dining room, legendary brunch pastries, and a bakery case you'll want to raid.
 
 ## The vibe
 

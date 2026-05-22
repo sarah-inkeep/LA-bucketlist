@@ -6,8 +6,9 @@ tags: [museum, la, want-to-go, art, free]
 
 # The Getty Center
 
-> [!TIP]
-> Quick take: World-class art, stunning architecture, and one of the best free views in LA — reservation required.
+> [!TIP] Quick take
+>
+> World-class art, stunning architecture, and one of the best free views in LA — reservation required.
 
 ![Panoramic view of the Getty Center campus and central garden with downtown LA in the distance](../../assets/images/getty-center/getty-center.jpg)
 *Source: [Wikimedia Commons — Los Angeles from Getty panorama](https://commons.wikimedia.org/wiki/File:Los_angeles_from_getty_panorama.jpg) — CC BY-SA 3.0*

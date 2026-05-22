@@ -5,8 +5,9 @@ tags: [food, restaurant, la, want-to-go, oaxacan, koreatown]
 ---
 # Guelaguetza
 
-> [!TIP]
-> Quick take: LA's benchmark for Oaxacan food — order a mole sampler and don't skip the memelas.
+> [!TIP] Quick take
+>
+> LA's benchmark for Oaxacan food — order a mole sampler and don't skip the memelas.
 
 ## The vibe
 

@@ -6,8 +6,9 @@ tags: [weekend, getaway, la, want-to-go, small-town]
 
 # Ojai
 
-> [!TIP]
-> Quick take: Quiet valley town for slow weekends — farm stands, spa hotels, and easy hikes without the desert heat.
+> [!TIP] Quick take
+>
+> Quiet valley town for slow weekends — farm stands, spa hotels, and easy hikes without the desert heat.
 
 ## The vibe
 

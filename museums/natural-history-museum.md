@@ -6,8 +6,9 @@ tags: [museum, la, want-to-go, science, family]
 
 # Natural History Museum
 
-> [!TIP]
-> Quick take: Classic family museum — dinosaurs, the Nature Gardens, and easy pairing with California Science Center next door.
+> [!TIP] Quick take
+>
+> Classic family museum — dinosaurs, the Nature Gardens, and easy pairing with California Science Center next door.
 
 ## The vibe
 

@@ -6,8 +6,9 @@ tags: [weekend, getaway, la, want-to-go, mountain, snow]
 
 # Big Bear Lake
 
-> [!TIP]
-> Quick take: Four-season mountain town — ski in winter, lake and trails in summer, cozy cabins year-round.
+> [!TIP] Quick take
+>
+> Four-season mountain town — ski in winter, lake and trails in summer, cozy cabins year-round.
 
 ## The vibe
 

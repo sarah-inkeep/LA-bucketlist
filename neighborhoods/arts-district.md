@@ -5,8 +5,9 @@ tags: [neighborhood, la, want-to-go, downtown, art]
 ---
 # Arts District
 
-> [!TIP]
-> Quick take: Industrial-turned-creative neighborhood — mural walks, specialty coffee, and some of LA's best restaurants.
+> [!TIP] Quick take
+>
+> Industrial-turned-creative neighborhood — mural walks, specialty coffee, and some of LA's best restaurants.
 
 ## The vibe
 

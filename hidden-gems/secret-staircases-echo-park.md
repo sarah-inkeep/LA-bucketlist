@@ -6,8 +6,9 @@ tags: [hidden-gem, la, want-to-go, stairs, walking]
 
 # Secret Stairs — Echo Park & Silver Lake
 
-> [!TIP]
-> Quick take: Discover LA's network of public staircases — a free urban hike through hidden neighborhood paths.
+> [!TIP] Quick take
+>
+> Discover LA's network of public staircases — a free urban hike through hidden neighborhood paths.
 
 ## The vibe
 

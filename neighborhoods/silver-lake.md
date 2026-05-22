@@ -6,8 +6,9 @@ tags: [neighborhood, la, want-to-go, eastside]
 
 # Silver Lake
 
-> [!TIP]
-> Quick take: LA's indie-creative hub — walk the reservoir, browse Sunset Blvd shops, grab coffee on Silver Lake Blvd.
+> [!TIP] Quick take
+>
+> LA's indie-creative hub — walk the reservoir, browse Sunset Blvd shops, grab coffee on Silver Lake Blvd.
 
 ## The vibe
 

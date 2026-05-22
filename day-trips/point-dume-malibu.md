@@ -6,8 +6,9 @@ tags: [day-trip, la, want-to-go, beach, malibu]
 
 # Point Dume State Beach
 
-> [!TIP]
-> Quick take: Dramatic Malibu coastline with a short bluff trail and whale-watching views — close enough for a half-day trip.
+> [!TIP] Quick take
+>
+> Dramatic Malibu coastline with a short bluff trail and whale-watching views — close enough for a half-day trip.
 
 ## The vibe
 

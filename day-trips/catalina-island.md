@@ -6,8 +6,9 @@ tags: [day-trip, la, want-to-go, island, ferry, beach]
 
 # Catalina Island
 
-> [!TIP]
-> Quick take: Leave LA on a ferry, spend the day in a car-free island village — golf carts, snorkeling, and beach clubs without leaving SoCal.
+> [!TIP] Quick take
+>
+> Leave LA on a ferry, spend the day in a car-free island village — golf carts, snorkeling, and beach clubs without leaving SoCal.
 
 ![Avalon harbor with boats docked and hillside homes rising above Catalina Island](../../assets/images/catalina/avalon-harbor.jpg)\
 *Source: [Wikimedia Commons — Avalon, Catalina Island](https://commons.wikimedia.org/wiki/File:Avalon,_Santa_Catalina_Island,_California_(8658959341).jpg) — Ken Lund, CC BY-SA 2.0*
