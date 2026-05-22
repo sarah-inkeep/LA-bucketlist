@@ -18,7 +18,7 @@ Calm, spacious, and photogenic. European art plus modern design, cactus gardens,
 - **Neighborhood / area:** Brentwood, West LA
 - **Best for:** Art lovers, architecture fans, first-time LA visitors, sunset views
 - **Time needed:** Half day to full day
-- **Cost:** Free admission; parking fee applies [source](./external-sources/getty-center-visit.md)
+- **Cost:** Free admission; parking fee applies [source](../external-sources/getty-center-visit.md)
 - **Parking / transit:** Tram from parking structure; limited transit access
 
 ## When to go
@@ -29,7 +29,7 @@ Saturday evenings for extended hours (until 9pm) [source](./external-sources/get
 
 - Book free timed tickets ahead online
 - Don't miss the Central Garden and the views toward the ocean
-- Pair with a separate trip to the [Getty Villa](https://www.getty.edu/visit/villa/) in Malibu (TODO: needs local source doc)
+- Pair with a separate trip to the Getty Villa in Malibu (TODO: needs source doc)
 
 ## Related
 

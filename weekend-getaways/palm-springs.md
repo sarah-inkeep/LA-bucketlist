@@ -23,7 +23,7 @@ Retro-cool, sunny, and unhurried. Boutique hotels, design shops, and a strong di
 
 ## When to go
 
-October–April for comfortable heat [source](./external-sources/visit-palm-springs.md). Summer is very hot. Events and holidays book up early.
+October–April for comfortable heat [source](../external-sources/visit-palm-springs.md). Summer is very hot. Events and holidays book up early.
 
 ## Tips
 

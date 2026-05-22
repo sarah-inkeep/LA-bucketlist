@@ -18,7 +18,7 @@ Wide-open desert, dramatic rock piles, and golden-hour light. Busy on spring wee
 - **Neighborhood / area:** High Desert, San Bernardino County (~140 miles from LA)
 - **Best for:** Hiking, rock scrambling, photography, stargazing, out-of-town guests who want "California desert"
 - **Time needed:** Full day (leave early, return after sunset)
-- **Cost:** Park entrance fee required [source](./external-sources/joshua-tree-nps-basic-info.md)
+- **Cost:** Park entrance fee required [source](../external-sources/joshua-tree-nps-basic-info.md)
 - **Parking / transit:** Car essential; no transit to the park interior
 
 ## When to go

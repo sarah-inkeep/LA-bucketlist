@@ -23,7 +23,7 @@ Alpine village energy with pine trees and a walkable lakefront. Family-friendly 
 
 ## When to go
 
-Winter for snow sports; summer for hiking and lake [source](./external-sources/visit-big-bear.md). Fall is quieter with fall color.
+Winter for snow sports; summer for hiking and lake [source](../external-sources/visit-big-bear.md). Fall is quieter with fall color.
 
 ## Tips
 

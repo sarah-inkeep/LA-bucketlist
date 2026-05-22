@@ -23,7 +23,7 @@ Loud, bustling, and democratic. Locals, office workers, and tourists sharing com
 
 ## When to go
 
-Open daily 8am–9pm [source](./external-sources/grand-central-market.md). Lunch rush is busiest. Weekend Bazaar events monthly (TODO: needs source for schedule).
+Open daily 8am–9pm [source](../external-sources/grand-central-market.md). Lunch rush is busiest. Weekend Bazaar events monthly (TODO: needs source for schedule).
 
 ## Tips
 

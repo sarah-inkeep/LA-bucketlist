@@ -3,7 +3,6 @@ title: Arts District
 description: Downtown LA's creative corridor — galleries, murals, coffee roasters, and warehouse restaurants.
 tags: [neighborhood, la, want-to-go, downtown, art]
 ---
-
 # Arts District
 
 > [!TIP]
@@ -18,7 +17,7 @@ Converted warehouses, street art, and a mix of artists and tech offices. Walkabl
 - **Neighborhood / area:** Downtown LA, east of Little Tokyo
 - **Best for:** Art walks, coffee crawls, dinner destinations
 - **Time needed:** Half day to full day
-- **Cost:** Free to walk; dining $–$$$
+- **Cost:** Free to walk; dining $$–$$$$
 - **Parking / transit:** Street and lot parking; Little Tokyo/Arts District Metro (TODO: needs source)
 
 ## When to go
@@ -35,3 +34,4 @@ Second Thursday art walk tradition (TODO: needs source). Brunch weekends are bus
 
 - [The Last Bookstore](../hidden-gems/last-bookstore.md)
 - [Neighborhoods overview](./overview.md)
+

@@ -19,7 +19,7 @@ Big, sprawling campus mixing outdoor sculpture, special exhibitions, and classic
 - **Best for:** Art fans, Instagram moments (Urban Light), date nights
 - **Time needed:** 2–4 hours
 - **Cost:** Paid admission; members free (TODO: needs source for current ticket prices)
-- **Parking / transit:** D Line Wilshire/Fairfax station [source](./external-sources/lacma-visit.md)
+- **Parking / transit:** D Line Wilshire/Fairfax station [source](../external-sources/lacma-visit.md)
 
 ## When to go
 
