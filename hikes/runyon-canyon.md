@@ -6,8 +6,9 @@ tags: [hike, trail, la, want-to-go, hollywood, views]
 
 # Runyon Canyon
 
-> [!TIP]
-> Quick take: The classic "see and be seen" LA hike — steep enough to feel like a workout, views of the city and Hollywood sign.
+> [!TIP] Quick take
+>
+> The classic "see and be seen" LA hike — steep enough to feel like a workout, views of the city and Hollywood sign.
 
 ![Hiker's view south from Runyon Canyon toward the Los Angeles basin and Hollywood Hills](../../assets/images/runyon-canyon/runyon-view.jpg)
 *Source: [Wikimedia Commons — South view from Runyon Canyon](https://commons.wikimedia.org/wiki/File:South_view_from_Runyon_Canyon.jpg) — CC BY-SA 3.0*

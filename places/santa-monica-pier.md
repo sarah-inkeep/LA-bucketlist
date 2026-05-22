@@ -6,8 +6,9 @@ tags: [place, la, want-to-go, beach, pier]
 
 # Santa Monica Pier
 
-> [!TIP]
-> Quick take: Touristy but essential — ferris wheel views, street performers, and the end of Route 66.
+> [!TIP] Quick take
+>
+> Touristy but essential — ferris wheel views, street performers, and the end of Route 66.
 
 ## The vibe
 

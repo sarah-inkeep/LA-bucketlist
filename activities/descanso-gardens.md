@@ -6,8 +6,9 @@ tags: [activity, la, want-to-go, gardens, nature, family]
 
 # Descanso Gardens
 
-> [!TIP]
-> Quick take: Peaceful escape from the city — shaded paths, seasonal blooms, and a great rainy-day outdoor option.
+> [!TIP] Quick take
+>
+> Peaceful escape from the city — shaded paths, seasonal blooms, and a great rainy-day outdoor option.
 
 ## The vibe
 

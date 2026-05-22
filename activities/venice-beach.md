@@ -6,8 +6,9 @@ tags: [activity, la, want-to-go, beach, venice]
 
 # Venice Beach Boardwalk
 
-> [!TIP]
-> Quick take: Pure LA spectacle — people-watching, beach time, and weirdness on the boardwalk.
+> [!TIP] Quick take
+>
+> Pure LA spectacle — people-watching, beach time, and weirdness on the boardwalk.
 
 ## The vibe
 

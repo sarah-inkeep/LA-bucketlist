@@ -6,8 +6,9 @@ tags: [place, la, want-to-go, park, outdoors]
 
 # Griffith Park
 
-> [!TIP]
-> Quick take: The green heart of LA — enough trails, attractions, and views for dozens of repeat visits.
+> [!TIP] Quick take
+>
+> The green heart of LA — enough trails, attractions, and views for dozens of repeat visits.
 
 ## The vibe
 
