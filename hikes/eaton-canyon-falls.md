@@ -3,11 +3,11 @@ title: Eaton Canyon Falls
 description: Family-friendly Pasadena hike to a seasonal waterfall in the San Gabriel foothills.
 tags: [hike, trail, la, want-to-go, pasadena, waterfall, family]
 ---
-
 # Eaton Canyon Falls
 
-> [!TIP]
-> Quick take: Accessible foothill hike with a waterfall payoff — great for beginners and kids when water is flowing.
+> [!TIP] Quick take
+>
+> Accessible foothill hike with a waterfall payoff — great for beginners and kids when water is flowing.
 
 ## The vibe
 
@@ -35,3 +35,4 @@ Winter and spring after rain for waterfall flow (TODO: needs source). Summer can
 
 - [Hikes overview](./overview.md)
 - [Day trips overview](../day-trips/overview.md)
+

@@ -3,11 +3,11 @@ title: Joshua Tree National Park
 description: Desert day trip — rock formations, Joshua trees, and stargazing about 2.5 hours from LA.
 tags: [day-trip, la, want-to-go, national-park, desert]
 ---
-
 # Joshua Tree National Park
 
-> [!TIP]
-> Quick take: Otherworldly desert landscape with iconic trees and boulders — perfect for a full-day escape from LA.
+> [!TIP] Quick take
+>
+> Otherworldly desert landscape with iconic trees and boulders — perfect for a full-day escape from LA.
 
 ## The vibe
 
@@ -15,7 +15,7 @@ Wide-open desert, dramatic rock piles, and golden-hour light. Busy on spring wee
 
 ## Good to know
 
-- **Neighborhood / area:** High Desert, San Bernardino County (~140 miles from LA)
+- **Neighborhood / area:** High Desert, San Bernardino County (\~140 miles from LA)
 - **Best for:** Hiking, rock scrambling, photography, stargazing, out-of-town guests who want "California desert"
 - **Time needed:** Full day (leave early, return after sunset)
 - **Cost:** Park entrance fee required [source](../external-sources/joshua-tree-nps-basic-info.md)
@@ -35,3 +35,4 @@ Fall through spring for hiking; avoid midday hikes in summer due to extreme heat
 
 - [Day trips overview](./overview.md)
 - [Weekend getaways: Palm Springs](../weekend-getaways/palm-springs.md)
+

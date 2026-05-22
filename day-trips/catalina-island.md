@@ -9,6 +9,9 @@ tags: [day-trip, la, want-to-go, island, ferry, beach]
 > [!TIP]
 > Quick take: Leave LA on a ferry, spend the day in a car-free island village — golf carts, snorkeling, and beach clubs without leaving SoCal.
 
+![Avalon harbor with boats docked and hillside homes rising above Catalina Island](../../assets/images/catalina/avalon-harbor.jpg)
+*Source: [Wikimedia Commons — Avalon, Catalina Island](https://commons.wikimedia.org/wiki/File:Avalon,_Santa_Catalina_Island,_California_(8658959341).jpg) — Ken Lund, CC BY-SA 2.0*
+
 ## The vibe
 
 Small-town island escape. Avalon is walkable and tourist-friendly — colorful buildings, glass-bottom boats, and a relaxed vacation feel. Much quieter than mainland LA. Can feel crowded on summer weekends when ferries are full.

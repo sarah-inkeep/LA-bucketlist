@@ -3,11 +3,11 @@ title: Hollywood Bowl
 description: Legendary outdoor amphitheater in the hills — summer concerts under the stars.
 tags: [activity, la, want-to-go, music, concert]
 ---
-
 # Hollywood Bowl
 
-> [!TIP]
-> Quick take: Summer concert tradition — picnic on the bench seats while the LA Philharmonic or a headliner plays.
+> [!TIP] Quick take
+>
+> Summer concert tradition — picnic on the bench seats while the LA Philharmonic or a headliner plays.
 
 ## The vibe
 
@@ -35,3 +35,4 @@ Summer season (TODO: needs source for exact dates). Fireworks nights sell out ea
 
 - [Griffith Observatory trail](../hikes/griffith-observatory-trail.md)
 - [Activities overview](./overview.md)
+

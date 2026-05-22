@@ -9,6 +9,9 @@ tags: [food, restaurant, la, want-to-go, downtown, market]
 > [!TIP]
 > Quick take: LA's crossroads of food cultures — graze from a dozen counters in one visit.
 
+![Interior of Grand Central Market with food stalls and hanging neon signs in downtown LA](../../assets/images/grand-central-market/interior.jpg)
+*Source: [Wikimedia Commons — Grand Central Market, Los Angeles](https://commons.wikimedia.org/wiki/File:Grand_Central_Market,_Los_Angeles.jpg) — CC BY-SA 3.0*
+
 ## The vibe
 
 Loud, bustling, and democratic. Locals, office workers, and tourists sharing communal tables. Every visit can be different depending on which stall you hit.

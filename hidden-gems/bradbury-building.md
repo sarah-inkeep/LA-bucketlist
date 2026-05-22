@@ -3,11 +3,11 @@ title: Bradbury Building
 description: Downtown LA's 1893 architectural gem — ornate ironwork interior featured in Blade Runner.
 tags: [hidden-gem, la, want-to-go, architecture, downtown]
 ---
-
 # Bradbury Building
 
-> [!TIP]
-> Quick take: Step inside one of LA's most beautiful Victorian interiors — free to view the ground floor atrium.
+> [!TIP] Quick take
+>
+> Step inside one of LA's most beautiful Victorian interiors — free to view the ground floor atrium.
 
 ## The vibe
 
@@ -35,3 +35,4 @@ Weekday business hours for interior access (TODO: needs source for current hours
 
 - [Hidden gems overview](./overview.md)
 - [Grand Central Market](../food-and-drink/grand-central-market.md)
+
