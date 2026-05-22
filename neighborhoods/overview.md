@@ -13,7 +13,9 @@ LA is a patchwork of distinct areas. Use these guides to plan a day in Silver La
 
 ## On the list
 
-*(Entries will appear here as you add them.)*
+- [Silver Lake](./silver-lake.md)
+- [Arts District](./arts-district.md)
+- [Koreatown](./koreatown.md)
 
 ## Related
 

@@ -34,4 +34,4 @@ Weekday mornings for fewer crowds. First Tuesday of month closed except June–A
 ## Related
 
 - [Museums overview](./overview.md)
-- [Activities: Exposition Park](../activities/exposition-park.md)
+- [Descanso Gardens](../activities/descanso-gardens.md) — another easy nature outing

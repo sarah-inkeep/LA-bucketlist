@@ -13,7 +13,9 @@ From LACMA and The Broad to tiny niche museums nobody talks about. Track what yo
 
 ## On the list
 
-*(Entries will appear here as you add them.)*
+- [The Getty Center](./getty-center.md)
+- [LACMA](./lacma.md)
+- [Natural History Museum](./natural-history-museum.md)
 
 ## Related
 

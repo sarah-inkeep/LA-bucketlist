@@ -13,7 +13,9 @@ When you need more than a day trip. Cabins, boutique hotels, camping spots, and 
 
 ## On the list
 
-*(Entries will appear here as you add them.)*
+- [Palm Springs](./palm-springs.md)
+- [Big Bear Lake](./big-bear.md)
+- [Ojai](./ojai.md)
 
 ## Related
 

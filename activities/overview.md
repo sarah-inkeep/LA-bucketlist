@@ -13,7 +13,9 @@ Things to *do* — not just places to visit. Surf spots, seasonal events, classe
 
 ## On the list
 
-*(Entries will appear here as you add them.)*
+- [Venice Beach Boardwalk](./venice-beach.md)
+- [Hollywood Bowl](./hollywood-bowl.md)
+- [Descanso Gardens](./descanso-gardens.md)
 
 ## Related
 

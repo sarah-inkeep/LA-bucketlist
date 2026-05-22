@@ -13,7 +13,9 @@ Spots you can hit and be back home by bedtime. Think Joshua Tree, Malibu, Palm S
 
 ## On the list
 
-*(Entries will appear here as you add them.)*
+- [Joshua Tree National Park](./joshua-tree.md)
+- [Santa Barbara](./santa-barbara.md)
+- [Point Dume State Beach](./point-dume-malibu.md)
 
 ## Related
 

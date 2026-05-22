@@ -13,7 +13,9 @@ Taco stands to tasting menus. Track what you loved, what to order, and when to g
 
 ## On the list
 
-*(Entries will appear here as you add them.)*
+- [Grand Central Market](./grand-central-market.md)
+- [Guelaguetza](./guelaguetza.md)
+- [Republique](./republique.md)
 
 ## Related
 

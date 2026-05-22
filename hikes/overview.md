@@ -13,7 +13,9 @@ Trail notes for LA and nearby mountains. Track difficulty, distance, parking, an
 
 ## On the list
 
-*(Entries will appear here as you add them.)*
+- [Runyon Canyon](./runyon-canyon.md)
+- [Griffith Observatory Trail](./griffith-observatory-trail.md)
+- [Eaton Canyon Falls](./eaton-canyon-falls.md)
 
 ## Related
 

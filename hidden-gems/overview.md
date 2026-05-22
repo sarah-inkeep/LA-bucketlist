@@ -13,7 +13,9 @@ The spots you tell friends about in a whisper. Not necessarily secret — just e
 
 ## On the list
 
-*(Entries will appear here as you add them.)*
+- [The Last Bookstore](./last-bookstore.md)
+- [Bradbury Building](./bradbury-building.md)
+- [Secret Stairs — Echo Park & Silver Lake](./secret-staircases-echo-park.md)
 
 ## Related
 

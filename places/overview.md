@@ -13,7 +13,9 @@ Every spot in one place. Category folders (`day-trips/`, `museums/`, etc.) hold 
 
 ## Entries
 
-*(Entries will appear here as you add them.)*
+- [Griffith Park](./griffith-park.md)
+- [Santa Monica Pier](./santa-monica-pier.md)
+- [Downtown LA](./downtown-la.md)
 
 ## Related
 
