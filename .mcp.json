@@ -1,8 +1,10 @@
 {
   "mcpServers": {
     "open-knowledge": {
-      "command": "/usr/local/bin/ok",
+      "command": "npx",
       "args": [
+        "-y",
+        "@inkeep/open-knowledge@latest",
         "mcp"
       ]
     }
